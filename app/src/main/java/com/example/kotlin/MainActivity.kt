@@ -186,7 +186,7 @@ fun TelaPrincipal(jogos: MutableList<Game>, onGameClick: (Long) -> Unit) {
         Spacer(modifier = Modifier.height(8.dp))
 
         // cont dos jogos
-        Text(text = "${jogos.size} jogos cadastrados", fontSize = 20.sp)
+        Text(text = "Jogos cadastrados: ${jogos.size}", fontSize = 20.sp)
         Spacer(modifier = Modifier.height(16.dp))
 
         // Coluna para a LISTA
