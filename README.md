@@ -28,15 +28,15 @@ Exibe a quantidade de jogos cadastrados próximo ao botão de adicionar.
 
 #### Como testar?
 
-Vá adicionandos e removendo jogos, verá a quantidade de jogos presentes próximo ao botão se atualizar de acordo.
+Vá adicionando e removendo jogos, verá a quantidade de jogos presentes próximo ao botão se atualizar de acordo.
 
 ### Remover por long press
 
-Remove o jogo ao ser pressionado por um certo perídoo de tempo, exibindo um "Toast" de confirmação.
+Remove o jogo ao ser pressionado por um certo período de tempo, exibindo um "Toast" de confirmação.
 
 ##### Como testar?
 
-Vá para a lista de jogos, pressione algum dos itens e aguarde o pedido de confirmação, aceite e veja o número de jogos cadastrandos sendo diminuído.
+Vá para a lista de jogos, pressione algum dos itens e aguarde o pedido de confirmação, aceite e veja o número de jogos cadastrados sendo diminuído.
 
 
 
